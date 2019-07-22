@@ -1,0 +1,20 @@
+ <div class="row" style="background-color: crimson">
+
+        <dl class="col2-2 btn btn-danger toggle-menu ">
+          <dt class="btn-danger js-toggle" >お祭り</dt>
+          <br><dd class="btn-danger">桜祭り</dd>
+          <br><dd class="btn-danger"> ねぷた祭り</dd>
+        </dl>
+
+        <dl class="col2-2 btn btn-danger toggle-menu ">
+          <dt class="btn-danger js-toggle">食</dt>
+          <br><dd class="btn-danger">郷土料理</dd>
+          <br><dd class="btn-danger">アップルパイ</dd>
+        </dl>
+        
+        <div class="col-2 btn btn-danger">史跡<br>観光地</div>
+        <div class="col-2 btn btn-danger">ゆるキャラ<br>アイドル</div>
+        <div class="col-2 btn btn-danger">方言</div>
+        <div class="col-2 btn btn-danger">交通</div>
+      </div>
+
